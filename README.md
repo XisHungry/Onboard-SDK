@@ -1,5 +1,5 @@
 # Onboard-SDK-ROS 3.7
-Outdoor flight libraries and dependacies that allows integration of Onboard SDK ROS 3.2
+Outdoor flight libraries and dependacies that allows integration of Onboard SDK ROS 3.7
 
 ## Contents
 1. Description
